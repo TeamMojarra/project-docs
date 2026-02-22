@@ -2,6 +2,22 @@
 
 ## Pregunta 1
 
+### JESUS DAVID TROCHEZ MORALES: 
+
+Rol deseado: desarrollador backend
+Fortalezas: organización, lógica, trabajo constante
+A mejorar: comunicación en reuniones
+
+### Francisco Miranda:
+**Rol que me gustaría desempeñar**
+Me gustaría asumir un rol de **líder técnico / arquitectura (tech lead)**: proponer la visión técnica del proyecto, definir la estructura del repo y ayudar a escoger tecnologías y buenas prácticas para que el equipo trabaje consistente.
+
+**Fortalezas**
+Soy organizado con la estructura y el diseño, me gusta justificar decisiones técnicas con pros/contras, y puedo apoyar revisando PRs para mantener calidad y coherencia.
+
+**Por mejorar**
+Quiero mejorar mis estimaciones de tiempo y comunicar bloqueos más rápido para no atrasar al equipo.
+
 ### Juan Pablo Rodríguez:
 **Rol que me gustaria desempeñar**
 Me gustaría ser el integrante que asegura que lo que construimos realmente funcione y sea robusto. Mi enfoque será diseñar las estrategias de prueba, verificar que el código cumpla con los requisitos, tenga una lógica sólida y asegurar que el producto final no tenga "fugas" o errores antes de llegar al cliente.
@@ -23,7 +39,7 @@ Pedir ayuda si no logro resolver un error o llegar a la robustez y/o funcionalid
 Como equipo, acordamos estos compromisos para trabajar de forma organizada, transparente y colaborativa. La idea es evitar atrasos por falta de comunicación, reducir retrabajo y mantener una calidad mínima constante durante el desarrollo.
 
 **Organización del trabajo (tablero)**  
-Usaremos un tablero tipo chatgepete para que todas las tareas estén visibles y actualizadas. Cada tarea debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). Procuraremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y moveremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
+Usaremos un tablero tipo Kanban para que todas las tareas estén visibles y actualizadas. Cada tarea debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). Procuraremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y moveremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
 
 **Comunicación y reuniones**  
 Tendremos una reunión corta semanal para revisar progreso, prioridades y bloqueos. Si alguien no puede asistir, dejará un estado por mensaje (qué hizo, qué hará y si está bloqueado). Además, si alguien se queda atascado por más de 30–60 minutos, lo comunicará de inmediato para pedir ayuda y no perder tiempo.
