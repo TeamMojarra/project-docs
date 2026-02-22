@@ -2,15 +2,20 @@
 
 ## Pregunta 1
 
-### Francisco Miranda:
-**Rol que me gustaría desempeñar**
-Me gustaría asumir un rol de **líder técnico / arquitectura (tech lead)**: proponer la visión técnica del proyecto, definir la estructura del repo y ayudar a escoger tecnologías y buenas prácticas para que el equipo trabaje consistente.
+### Juan Pablo Rodríguez:
+**Rol que me gustaria desempeñar**
+Me gustaría ser el integrante que asegura que lo que construimos realmente funcione y sea robusto. Mi enfoque será diseñar las estrategias de prueba, verificar que el código cumpla con los requisitos, tenga una lógica sólida y asegurar que el producto final no tenga "fugas" o errores antes de llegar al cliente.
 
 **Fortalezas**
-Soy organizado con la estructura y el diseño, me gusta justificar decisiones técnicas con pros/contras, y puedo apoyar revisando PRs para mantener calidad y coherencia.
+Atención al detalle: Tengo facilidad para encontrar inconsistencias o edge cases que otros podrían pasar por alto.
+Pensamiento analítico: Me gusta entender el embrollo completo para saber dónde es más probable que algo falle.
+Mentalidad de usuario: Puedo ponerme en los zapatos de quien usará el software para garantizar que la experiencia sea fluida y de calidad.
 
-**Por mejorar**
-Quiero mejorar mis estimaciones de tiempo y comunicar bloqueos más rápido para no atrasar al equipo.
+**Aspectos por mejorar**
+Quiero fortalecer mis habilidades técnicas para crear scripts de prueba automáticos y no depender solo de revisiones manuales y poder desarrollar algo de automatización.
+Aprender a comunicar los errores encontrados de una manera que ayude al equipo a mejorar sin generar fricciones.
+Entender que los errores son parte del proceso y no estresarme cuando el cronograma esté apretado y aparezcan fallos inesperados.
+Pedir ayuda si no logro resolver un error o llegar a la robustez y/o funcionalidad deseadas.
 
 ## Pregunta 2
 
@@ -18,7 +23,7 @@ Quiero mejorar mis estimaciones de tiempo y comunicar bloqueos más rápido para
 Como equipo, acordamos estos compromisos para trabajar de forma organizada, transparente y colaborativa. La idea es evitar atrasos por falta de comunicación, reducir retrabajo y mantener una calidad mínima constante durante el desarrollo.
 
 **Organización del trabajo (tablero)**  
-Usaremos un tablero tipo Kanban para que todas las tareas estén visibles y actualizadas. Cada tarea debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). Procuraremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y moveremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
+Usaremos un tablero tipo chatgepete para que todas las tareas estén visibles y actualizadas. Cada tarea debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). Procuraremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y moveremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
 
 **Comunicación y reuniones**  
 Tendremos una reunión corta semanal para revisar progreso, prioridades y bloqueos. Si alguien no puede asistir, dejará un estado por mensaje (qué hizo, qué hará y si está bloqueado). Además, si alguien se queda atascado por más de 30–60 minutos, lo comunicará de inmediato para pedir ayuda y no perder tiempo.
