@@ -33,6 +33,21 @@ Aprender a comunicar los errores encontrados de una manera que ayude al equipo a
 Entender que los errores son parte del proceso y no estresarme cuando el cronograma esté apretado y aparezcan fallos inesperados.
 Pedir ayuda si no logro resolver un error o llegar a la robustez y/o funcionalidad deseadas.
 
+### Layo Moreno
+**Rol que me gustaria desempeñar**
+El rol que me gustaría desempeñar en el equipo es el de diseño, documentación y comunicación. Me interesa participar en la etapa de diseño porque considero que una buena planificación permite organizar mejor el trabajo y evitar errores en el desarrollo. Además, me gustaría encargarme de la documentación, ya que es fundamental para que todos los integrantes comprendan el proyecto y su avance. También considero importante apoyar en la comunicación dentro del equipo y, si es necesario, con el cliente, asegurando que la información sea clara y organizada.
+**Fortalezas**
+
+- Aprendizaje rápido
+- Bases en Python
+- Responsabilidad
+
+**Aspectos por mejorar**
+
+- Gestión del tiempo
+- Escuchar más
+- Pedir ayuda cuando sea necesario
+
 ## Pregunta 2
 
 **Introducción**  
