@@ -2,6 +2,12 @@
 
 ## Pregunta 1
 
+### JESUS DAVID TROCHEZ MORALES: 
+
+Rol deseado: desarrollador backend
+Fortalezas: organización, lógica, trabajo constante
+A mejorar: comunicación en reuniones
+
 ### Francisco Miranda:
 **Rol que me gustaría desempeñar**
 Me gustaría asumir un rol de **líder técnico / arquitectura (tech lead)**: proponer la visión técnica del proyecto, definir la estructura del repo y ayudar a escoger tecnologías y buenas prácticas para que el equipo trabaje consistente.
