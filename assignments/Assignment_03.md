@@ -36,7 +36,7 @@ Pedir ayuda si no logro resolver un error o llegar a la robustez y/o funcionalid
 ## Pregunta 2
 
 **Introducción**  
-Como equipo, acordamos estos compromisos para trabajar de forma organizada, transparente y colaborativa. La idea es evitar atrasos por falta de comunicación, reducir retrabajo y mantener una calidad mínima constante durante el desarrollo.
+Como equipo, trabajaremos de forma organizada, transparente y colaborativa. La idea es evitar atrasos por falta de comunicación, reducir retrabajo y mantener una calidad mínima constante durante el desarrollo.
 
 **Organización del trabajo (tablero)**  
 Usaremos un tablero tipo Kanban para que todas las tareas estén visibles y actualizadas. Cada tarea debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). Procuraremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y moveremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
