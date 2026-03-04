@@ -33,19 +33,34 @@ Aprender a comunicar los errores encontrados de una manera que ayude al equipo a
 Entender que los errores son parte del proceso y no estresarme cuando el cronograma esté apretado y aparezcan fallos inesperados.
 Pedir ayuda si no logro resolver un error o llegar a la robustez y/o funcionalidad deseadas.
 
+### Layo Moreno
+**Rol que me gustaria desempeñar**
+El rol que me gustaría desempeñar en el equipo es el de diseño, documentación y comunicación. Me interesa participar en la etapa de diseño porque considero que una buena planificación permite organizar mejor el trabajo y evitar errores en el desarrollo. Además, me gustaría encargarme de la documentación, ya que es fundamental para que todos los integrantes comprendan el proyecto y su avance. También considero importante apoyar en la comunicación dentro del equipo y, si es necesario, con el cliente, asegurando que la información sea clara y organizada.
+**Fortalezas**
+
+- Aprendizaje rápido
+- Bases en Python
+- Responsabilidad
+
+**Aspectos por mejorar**
+
+- Gestión del tiempo
+- Escuchar más
+- Pedir ayuda cuando sea necesario
+
 ## Pregunta 2
 
 **Introducción**  
-Como equipo, trabajaremos de forma organizada, transparente y colaborativa. La idea es evitar atrasos por falta de comunicación, reducir retrabajo y mantener una calidad mínima constante durante el desarrollo.
+Como equipo, pactamos estos compromisos para trabajar de forma organizada, transparente y colaborativa. La meta es evitar atrasos por falta de comunicación, reducir retrabajo y mantener una calidad mínima constante durante el desarrollo.
 
 **Organización del trabajo (tablero)**  
-Usaremos un tablero tipo Kanban para que todas las tareas estén visibles y actualizadas. Cada tarea debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). Procuraremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y moveremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
+Usaremos un tablero tipo Kanban para que todas las tareas estén visibles y actualizadas. Cada labor debe tener una descripción clara, una persona responsable y un criterio mínimo de “listo” (Definition of Done). intentaremos no trabajar en demasiadas cosas al mismo tiempo; por eso mantendremos pocas tareas “In Progress” por persona y actualizaremos el estado de las tareas conforme avancemos, para que el tablero refleje la realidad.
 
 **Comunicación y reuniones**  
-Tendremos una reunión corta semanal para revisar progreso, prioridades y bloqueos. Si alguien no puede asistir, dejará un estado por mensaje (qué hizo, qué hará y si está bloqueado). Además, si alguien se queda atascado por más de 30–60 minutos, lo comunicará de inmediato para pedir ayuda y no perder tiempo.
+Tendremos una reunión corta semanal para revisar avances, prioridades y bloqueos. Si alguien no puede asistir, dejará un estado por mensaje (qué hizo, qué hará y si está detenido). Además, si alguien se queda estancado por más de 30–60 minutos, lo comunicará de inmediato para pedir ayuda y no perder tiempo.
 
 **Flujo con Git/GitHub**  
-No haremos cambios directos sobre `main`: todo se realizará mediante ramas y Pull Requests. Cada PR debe describir qué se cambió y cómo se puede probar o verificar. Cuando sea posible, otro integrante revisará el PR antes del merge para asegurar consistencia. Si surgen conflictos de merge, los resolveremos con calma en la rama del PR, dejando una única versión final coherente.
+No haremos cambios directos sobre `main`: todo se ejecutará mediante ramas y Pull Requests. Cada PR debe describir qué se cambió y cómo se puede validar o verificar. Cuando sea posible, otro integrante revisará el PR antes del merge para asegurar coherencia. Si surgen conflictos de merge, los resolveremos con calma en la rama del PR, dejando una única versión final coherente.
 
 **Toma de decisiones y calidad mínima**  
-Intentaremos llegar a consenso en decisiones importantes (por ejemplo, tecnologías o estructura del proyecto) y, si no es posible en un tiempo razonable, definiremos por votación. Consideraremos una tarea como “terminada” solo si está integrada correctamente, no rompe el proyecto y tiene la documentación mínima necesaria cuando aplique.
+Intentaremos llegar a consenso en decisiones relevantes (por ejemplo, tecnologías o estructura del proyecto) y, si no es posible en un tiempo razonable, definiremos por votación. Consideraremos una tarea como “terminada” solo si está integrada correctamente, no daña el proyecto y tiene la documentación mínima requerida cuando aplique.
